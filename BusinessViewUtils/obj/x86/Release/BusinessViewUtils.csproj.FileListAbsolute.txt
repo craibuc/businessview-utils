@@ -1,0 +1,4 @@
+Z:\craibuc On My Mac\Projects\Visual Studio 2010\BusinessVIew - LoVs\BusinessVIew - LoVs\obj\x86\Release\BusinessViewUtils.Credentials.resources
+Z:\craibuc On My Mac\Projects\Visual Studio 2010\BusinessVIew - LoVs\BusinessVIew - LoVs\obj\x86\Release\BusinessViewUtils.Properties.Resources.resources
+Z:\craibuc On My Mac\Projects\Visual Studio 2010\BusinessVIew - LoVs\BusinessVIew - LoVs\obj\x86\Release\BusinessViewUtils.csproj.GenerateResource.Cache
+C:\Users\Craig Buchanan\Documents\Visual Studio 2010\BusinessVIew - LoVs\BusinessVIew - LoVs\bin\Release\BusinessViewUtils.exe.config

@@ -1,0 +1,2 @@
+Z:\craibuc On My Mac\Projects\Visual Studio 2010\BusinessVIew - LoVs\BusinessVIew - LoVs\bin\Debug\BusinessViewUtils.exe.config
+\\vmware-host\Shared Folders\Documents\Visual Studio 2010\Projects\businessview-utils\BusinessViewUtils\bin\Debug\BusinessViewUtils.exe.config

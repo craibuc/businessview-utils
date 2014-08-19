@@ -1,0 +1,9 @@
+Z:\craibuc On My Mac\Projects\Visual Studio 2010\BusinessVIew - LoVs\BusinessVIew - LoVs\bin\Debug\BusinessVIew - LoVs.exe.config
+Z:\craibuc On My Mac\Projects\Visual Studio 2010\BusinessVIew - LoVs\BusinessVIew - LoVs\obj\x86\Debug\BusinessVIew___LoVs.Credentials.resources
+Z:\craibuc On My Mac\Projects\Visual Studio 2010\BusinessVIew - LoVs\BusinessVIew - LoVs\obj\x86\Debug\BusinessVIew___LoVs.Properties.Resources.resources
+Z:\craibuc On My Mac\Projects\Visual Studio 2010\BusinessVIew - LoVs\BusinessVIew - LoVs\obj\x86\Debug\BusinessVIew - LoVs.csproj.GenerateResource.Cache
+Z:\craibuc On My Mac\Projects\Visual Studio 2010\BusinessVIew - LoVs\BusinessVIew - LoVs\bin\Debug\Database1.sdf
+Z:\craibuc On My Mac\Projects\Visual Studio 2010\BusinessVIew - LoVs\BusinessVIew - LoVs\bin\Debug\BusinessVIew - LoVs.exe
+Z:\craibuc On My Mac\Projects\Visual Studio 2010\BusinessVIew - LoVs\BusinessVIew - LoVs\bin\Debug\BusinessVIew - LoVs.pdb
+Z:\craibuc On My Mac\Projects\Visual Studio 2010\BusinessVIew - LoVs\BusinessVIew - LoVs\obj\x86\Debug\BusinessVIew - LoVs.exe
+Z:\craibuc On My Mac\Projects\Visual Studio 2010\BusinessVIew - LoVs\BusinessVIew - LoVs\obj\x86\Debug\BusinessVIew - LoVs.pdb
